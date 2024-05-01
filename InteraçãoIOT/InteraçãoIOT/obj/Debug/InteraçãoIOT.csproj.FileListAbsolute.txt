@@ -1,0 +1,12 @@
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\bin\Debug\InteraçãoIOT.exe.config
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\bin\Debug\InteraçãoIOT.exe
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\bin\Debug\InteraçãoIOT.pdb
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\bin\Debug\EasyModbus.dll
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.csproj.AssemblyReference.cache
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.Form1.resources
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.Properties.Resources.resources
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.csproj.GenerateResource.cache
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.csproj.CoreCompileInputs.cache
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\Interaçã.8BDA24A3.Up2Date
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.exe
+C:\Users\SENAI - ALUNOS\Documents\Visual Studio 2022\Luiz Felipe\InteraçãoIOT\InteraçãoIOT\obj\Debug\InteraçãoIOT.pdb
