@@ -31,7 +31,7 @@ namespace arduinoCommunication
 
         private void LoadData()
         {
-            string query = "SELECT username, password, function, name, last_name, date_time FROM tela_cadastro";
+            string query = "SELECT serial_number, date_time FROM example_table";
             using (MySqlConnection conn = new MySqlConnection(connectionString))
             {
                 try

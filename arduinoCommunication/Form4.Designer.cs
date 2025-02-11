@@ -33,6 +33,8 @@
             this.btnMinimize = new System.Windows.Forms.Button();
             this.btnON = new System.Windows.Forms.Button();
             this.btnOFF = new System.Windows.Forms.Button();
+            this.cbSerialPort = new System.Windows.Forms.ComboBox();
+            this.lblStatusBar = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblArduino
@@ -99,11 +101,35 @@
             this.btnOFF.UseVisualStyleBackColor = true;
             this.btnOFF.Click += new System.EventHandler(this.btnOFF_Click);
             // 
+            // cbSerialPort
+            // 
+            this.cbSerialPort.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cbSerialPort.Font = new System.Drawing.Font("Adobe Myungjo Std M", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbSerialPort.FormattingEnabled = true;
+            this.cbSerialPort.Location = new System.Drawing.Point(317, 221);
+            this.cbSerialPort.Name = "cbSerialPort";
+            this.cbSerialPort.Size = new System.Drawing.Size(121, 24);
+            this.cbSerialPort.TabIndex = 5;
+            // 
+            // lblStatusBar
+            // 
+            this.lblStatusBar.BackColor = System.Drawing.Color.Red;
+            this.lblStatusBar.Font = new System.Drawing.Font("Adobe Myungjo Std M", 26.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.lblStatusBar.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lblStatusBar.Location = new System.Drawing.Point(-1, 368);
+            this.lblStatusBar.Name = "lblStatusBar";
+            this.lblStatusBar.Size = new System.Drawing.Size(802, 83);
+            this.lblStatusBar.TabIndex = 6;
+            this.lblStatusBar.Text = "ARDUINO OFF";
+            this.lblStatusBar.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblStatusBar);
+            this.Controls.Add(this.cbSerialPort);
             this.Controls.Add(this.btnOFF);
             this.Controls.Add(this.btnON);
             this.Controls.Add(this.btnMinimize);
@@ -112,6 +138,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form4";
             this.Text = "Form4";
+            this.Load += new System.EventHandler(this.Form4_Load);
             this.ResumeLayout(false);
 
         }
@@ -123,5 +150,7 @@
         private System.Windows.Forms.Button btnMinimize;
         private System.Windows.Forms.Button btnON;
         private System.Windows.Forms.Button btnOFF;
+        private System.Windows.Forms.ComboBox cbSerialPort;
+        private System.Windows.Forms.Label lblStatusBar;
     }
 }
