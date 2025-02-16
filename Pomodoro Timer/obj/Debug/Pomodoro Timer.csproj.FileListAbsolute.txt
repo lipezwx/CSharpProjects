@@ -1,0 +1,10 @@
+C:\Users\lipez\source\repos\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe.config
+C:\Users\lipez\source\repos\Pomodoro Timer\bin\Debug\Pomodoro Timer.exe
+C:\Users\lipez\source\repos\Pomodoro Timer\bin\Debug\Pomodoro Timer.pdb
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.AssemblyReference.cache
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Pomodoro.resources
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro_Timer.Properties.Resources.resources
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.GenerateResource.cache
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro Timer.csproj.CoreCompileInputs.cache
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro Timer.exe
+C:\Users\lipez\source\repos\Pomodoro Timer\obj\Debug\Pomodoro Timer.pdb
