@@ -1,0 +1,13 @@
+C:\Users\lipez\source\repos\MQTT_Chat\bin\Debug\MQTT_Chat.exe.config
+C:\Users\lipez\source\repos\MQTT_Chat\bin\Debug\MQTT_Chat.exe
+C:\Users\lipez\source\repos\MQTT_Chat\bin\Debug\MQTT_Chat.pdb
+C:\Users\lipez\source\repos\MQTT_Chat\bin\Debug\M2Mqtt.Net.dll
+C:\Users\lipez\source\repos\MQTT_Chat\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.csproj.AssemblyReference.cache
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.Form1.resources
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.Properties.Resources.resources
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.csproj.GenerateResource.cache
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.csproj.CoreCompileInputs.cache
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.csproj.Up2Date
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.exe
+C:\Users\lipez\source\repos\MQTT_Chat\obj\Debug\MQTT_Chat.pdb
