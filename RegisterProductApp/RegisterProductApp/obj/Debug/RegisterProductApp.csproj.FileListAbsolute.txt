@@ -1,0 +1,13 @@
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\bin\Debug\RegisterProductApp.exe.config
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\bin\Debug\RegisterProductApp.exe
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\bin\Debug\RegisterProductApp.pdb
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.csproj.AssemblyReference.cache
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.MainWindow.resources
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.Properties.Resources.resources
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.csproj.GenerateResource.cache
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.csproj.CoreCompileInputs.cache
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.exe
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\RegisterProductApp.pdb
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SENAI - ALUNOS\source\repos\RegisterProductApp\RegisterProductApp\obj\Debug\Register.D591D306.Up2Date
